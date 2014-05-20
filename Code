@@ -1,1 +1,2 @@
-console.log("Hello World");
+var Adventure = confirm("Welcome to Adventure. Click OK to play.")
+var Proceed1 = confirm("")
